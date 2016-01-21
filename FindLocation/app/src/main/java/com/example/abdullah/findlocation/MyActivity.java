@@ -22,7 +22,8 @@ import java.util.Locale;
 
 public class MyActivity extends Activity implements GoogleApiClient.ConnectionCallbacks,GoogleApiClient.OnConnectionFailedListener {
 
-
+  This is my change  in program
+    
     private GoogleApiClient mGoogleApiClient;
     private Location mLastLocation;
 
